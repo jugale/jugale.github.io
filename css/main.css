@@ -36,7 +36,7 @@ p {
 .header {
   padding: 60px;
   text-align: center;
-  background-image:url("/files/Houston.png");
+  background-image:url("/files/Houston.jpg");
   background-position: 100%;
   background-size: cover;
   opacity: 0.3;
