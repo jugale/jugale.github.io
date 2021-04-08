@@ -33,7 +33,7 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-header {
+.header {
   padding: 60px;
   text-align: center;
   background: #1abc9c;
