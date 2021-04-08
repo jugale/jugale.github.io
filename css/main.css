@@ -34,6 +34,7 @@ p {
     color: #333;
 }
 .header {
+  padding: 60px;
   text-align: center;
   background-image:url("/files/Layout.jpg");
   background-position: 100%;
@@ -41,6 +42,7 @@ p {
   opacity: 0.3;
   color: white;
   font-size: 30px;
+  height: 200px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
